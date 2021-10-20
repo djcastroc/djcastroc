@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @djcastroc
+- 👀 I’m interested in AI and Machine Learning
+- 🌱 I’m currently learning AWS services
+- 💞️ I’m looking to collaborate on new projects involving the cloud
+- 📫 How to reach me: You can reach me trough my LinkedIn or mail
